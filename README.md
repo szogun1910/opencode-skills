@@ -1,0 +1,1 @@
+# OpenCode Skills\n\n12 OpenCode skills for AI coding agents.\n\n## Skills\n\n- opencode-memento\n- magic-context\n- opencode-contexty\n- vibecop\n- llm-wiki-plugin\n- rememnemosyne\n- oh-my-opencode\n- opencode-search\n- opencode-security-analyze\n- system-prompts-ai-tools\n- opencode-auto-resume\n- skill-creator
